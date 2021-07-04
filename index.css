@@ -1,0 +1,39 @@
+.division{
+	max-width: 750px;
+	margin: auto;
+}
+.division-1{
+	background-color: white;
+}
+.division-1 h4{
+	color:#3aaa9e;
+}
+.division-1 p{
+	color: grey;
+}
+.division-1 h5{
+	color:#aae154;
+}
+.division-2{
+	color: white;
+}
+button:hover{
+	color: white !important;
+}
+span{
+	font-size: 20px;
+	color: rgba(255,255,255,0.5);
+}
+.division-2 div:nth-of-type(1){
+	background-color: #3aaa9e;
+}
+.division-2 div:nth-of-type(2){
+	background-color: #38dcca;
+}
+.btn-bg{
+	color: white;
+	background-color: #aae154 !important;
+}
+p{
+  color: rgba(255,255,255,0.8);
+}
